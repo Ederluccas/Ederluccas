@@ -26,7 +26,7 @@ Atualmente estou me preparando para certificações importantes no mundo da comp
 ## 📚 Certificações
 
 - ✅ AWS Certified Cloud Practitioner
-
+🏅 Confira minhas outras certificações e badges no meu Credly Perfil
 ---
 
 ## 🛠️ Tecnologias em estudo
