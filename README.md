@@ -26,7 +26,8 @@ Atualmente estou me preparando para certificações importantes no mundo da comp
 ## 📚 Certificações
 
 - ✅ AWS Certified Cloud Practitioner
-- 🏅 Confira minhas outras certificações e emblemas no meu [Credly Perfil](https://www.credly.com/users/eder-luccas)
+- ✅ AWS Certified Developer Associate
+- 🏅 Confira minhas outrascertificações e emblemas no meu [Credly Perfil](https://www.credly.com/users/eder-luccas)
 ---
 
 ## 🛠️ Tecnologias em estudo
