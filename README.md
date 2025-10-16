@@ -16,10 +16,9 @@ Atualmente estou me preparando para certificações importantes no mundo da comp
 
 - ☁️ Apaixonado por tecnologia, cloud computing e otimização de custos  
 - 📈 Foco em aprendizado contínuo e soluções escaláveis  
-- 📚 Estudando para as certificações:  
-  - AWS Developer – Associate  
+- 📚 Estudando para as certificações:   
   - AWS Solutions Architect – Associate  
-  - FinOps Certified Practitioner  
+ 
 
 ---
 
@@ -27,6 +26,7 @@ Atualmente estou me preparando para certificações importantes no mundo da comp
 
 - ✅ AWS Certified Cloud Practitioner
 - ✅ AWS Certified Developer Associate
+- ✅ FinOps Certified Practitioner
 - 🏅 Confira minhas outrascertificações e emblemas no meu [Credly Perfil](https://www.credly.com/users/eder-luccas)
 ---
 
